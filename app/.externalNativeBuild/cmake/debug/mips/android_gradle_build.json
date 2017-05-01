@@ -1,0 +1,68 @@
+
+{
+	"buildFiles" : [ "C:/Android/AndroidProjects/NdkOpencvTest/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"D:\\AndroidSets\\sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Android\\AndroidProjects\\NdkOpencvTest\\app\\.externalNativeBuild\\cmake\\debug\\mips --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"imported-lib-Debug-mips" : 
+		{
+			"abi" : "mips",
+			"artifactName" : "imported-lib",
+			"buildCommand" : "D:\\AndroidSets\\sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Android\\AndroidProjects\\NdkOpencvTest\\app\\.externalNativeBuild\\cmake\\debug\\mips --target imported-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=D:/AndroidSets/sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/AndroidSets/sdk/ndk-bundle/platforms/android-15/arch-mips  -Dimported_lib_EXPORTS -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\mips\\include -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=gnu++11 -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Android/AndroidProjects/NdkOpencvTest/app/src/main/cpp/inner.cpp",
+					"workingDirectory" : "C:/Android/AndroidProjects/NdkOpencvTest/app/.externalNativeBuild/cmake/debug/mips"
+				},
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=D:/AndroidSets/sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/AndroidSets/sdk/ndk-bundle/platforms/android-15/arch-mips  -Dimported_lib_EXPORTS -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\mips\\include -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=gnu++11 -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Android/AndroidProjects/NdkOpencvTest/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "C:/Android/AndroidProjects/NdkOpencvTest/app/.externalNativeBuild/cmake/debug/mips"
+				},
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=D:/AndroidSets/sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/AndroidSets/sdk/ndk-bundle/platforms/android-15/arch-mips  -Dimported_lib_EXPORTS -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\mips\\include -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=gnu++11 -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Android/AndroidProjects/NdkOpencvTest/app/src/main/cpp/test.cpp",
+					"workingDirectory" : "C:/Android/AndroidProjects/NdkOpencvTest/app/.externalNativeBuild/cmake/debug/mips"
+				}
+			],
+			"output" : "C:/Android/AndroidProjects/NdkOpencvTest/app/build/intermediates/cmake/debug/obj/mips/libimported-lib.so",
+			"toolchain" : "523214409"
+		},
+		"native-lib-Debug-mips" : 
+		{
+			"abi" : "mips",
+			"artifactName" : "native-lib",
+			"buildCommand" : "D:\\AndroidSets\\sdk\\cmake\\3.6.3155560\\bin\\cmake.exe --build C:\\Android\\AndroidProjects\\NdkOpencvTest\\app\\.externalNativeBuild\\cmake\\debug\\mips --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=mipsel-none-linux-android --gcc-toolchain=D:/AndroidSets/sdk/ndk-bundle/toolchains/mips64el-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=D:/AndroidSets/sdk/ndk-bundle/platforms/android-15/arch-mips  -Dnative_lib_EXPORTS -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\mips\\include -isystem D:\\AndroidSets\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mips32 -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=gnu++11 -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Android/AndroidProjects/NdkOpencvTest/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "C:/Android/AndroidProjects/NdkOpencvTest/app/.externalNativeBuild/cmake/debug/mips"
+				}
+			],
+			"output" : "C:/Android/AndroidProjects/NdkOpencvTest/app/build/intermediates/cmake/debug/obj/mips/libnative-lib.so",
+			"toolchain" : "523214409"
+		}
+	},
+	"toolchains" : 
+	{
+		"523214409" : 
+		{
+			"cCompilerExecutable" : "D:/AndroidSets/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/AndroidSets/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

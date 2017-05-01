@@ -1,0 +1,13 @@
+# ninja log v5
+4	81	0	CMakeFiles/imported-lib.dir/src/main/cpp/inner.cpp.o	932a9d4b69c1b836
+1	108	0	CMakeFiles/imported-lib.dir/src/main/cpp/test.cpp.o	f3723f5f9622c926
+6	623	0	CMakeFiles/imported-lib.dir/src/main/cpp/native-lib.cpp.o	c12032f7e18b5e29
+625	790	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libimported-lib.so	b86938e3b77cdeaa
+790	1032	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	bddaee8a212387ba
+1032	1151	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	fd583551ed5d9947
+16	135	0	CMakeFiles/imported-lib.dir/src/main/cpp/inner.cpp.o	932a9d4b69c1b836
+19	148	0	CMakeFiles/imported-lib.dir/src/main/cpp/test.cpp.o	f3723f5f9622c926
+13	555	0	CMakeFiles/imported-lib.dir/src/main/cpp/native-lib.cpp.o	c12032f7e18b5e29
+555	1211	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libimported-lib.so	b86938e3b77cdeaa
+1211	1437	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	bddaee8a212387ba
+1437	1562	0	../../../../build/intermediates/cmake/debug/obj/x86_64/libnative-lib.so	fd583551ed5d9947
